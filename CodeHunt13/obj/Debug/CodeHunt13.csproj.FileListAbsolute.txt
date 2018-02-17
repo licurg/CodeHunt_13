@@ -1,0 +1,7 @@
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\bin\Debug\CodeHunt13.exe.config
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\bin\Debug\CodeHunt13.exe
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\bin\Debug\CodeHunt13.pdb
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\obj\Debug\CodeHunt13.csprojResolveAssemblyReference.cache
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\obj\Debug\CodeHunt13.csproj.CoreCompileInputs.cache
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\obj\Debug\CodeHunt13.exe
+C:\Users\Polaris\source\repos\CodeHunt13\CodeHunt13\obj\Debug\CodeHunt13.pdb
